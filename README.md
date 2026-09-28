@@ -24,8 +24,8 @@
       <p>Short description of what your app does and the tech stack used.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/your-username/project-2">
-        <img src="https://raw.githubusercontent.com/your-username/project-2/main/preview.png" alt="Project 2 Preview" width="100%"/>
+      <a href="https://notes-app-six-kappa-92.vercel.app/">
+        <img src="https://s3-alpha.figma.com/hub/file/6879854140/984c2af7-73e2-40af-8663-347189e63d7d-cover.png" width="100%"/>
       </a>
       <br />
       <a href="https://github.com/your-username/project-2"><strong>📦 project-name-2</strong></a>
