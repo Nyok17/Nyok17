@@ -24,7 +24,7 @@
       <p>Mystic Yoga website. Take yoga classes with ease with Mystic yoga subscription</p>
     </td>
     <td width="50%">
-      <a href="https://notes-app-six-kappa-92.vercel.app/">
+      <a href="https://keeper-l0ek23iao-nyoks-projects.vercel.app/">
         <img src="https://www.rapidtables.com/lib/ogimages/notepad.jpg" width="100%"/>
       </a>
       <br />
@@ -39,16 +39,16 @@
         <img src="https://images.immediate.co.uk/production/volatile/sites/30/2026/04/Satay-tofu-bowls-fb93db8.jpg?quality=90&resize=556,505" width="100%"/>
       </a>
       <br />
-      <a href="https://github.com/your-username/project-1"><strong>Yoga website</strong></a>
-      <p>Mystic Yoga website. Take yoga classes with ease with Mystic yoga subscription</p>
+      <a href="https://github.com/your-username/project-1"><strong>Recipe Website</strong></a>
+      <p>Search and add recipe to favorites</p>
     </td>
     <td width="50%">
-      <a href="https://notes-app-six-kappa-92.vercel.app/">
+      <a href="https://github.com/Nyok17/blog_rest_api">
         <img src="https://dribbble.com/search/sticky-notes-app" width="100%"/>
       </a>
       <br />
-      <a href="https://github.com/your-username/project-2"><strong>Notes Taking Web App</strong></a>
-      <p>Take notes with google-like notes keeper</p>
+      <a href="https://media.licdn.com/dms/image/v2/D5612AQHE03yZfv7iDA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722700881001?e=2147483647&v=beta&t=IoYAYPenV7jONWhbN0j0hXjWCdJ5GJVI4bSB-Ps-xRI"><strong>Blog</strong></a>
+      <p>Blog REST API backend</p>
     </td>
   </tr>
 </table>
