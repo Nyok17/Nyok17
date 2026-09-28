@@ -47,7 +47,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQEjSlA8WVet7unHKTn9qkYrPazSngI_KBvWThxC9ZW6Aijm-FrFW7tI&s=10" width="100%"/>
       </a>
       <br />
-      <a href="https://media.licdn.com/dms/image/v2/D5612AQHE03yZfv7iDA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722700881001?e=2147483647&v=beta&t=IoYAYPenV7jONWhbN0j0hXjWCdJ5GJVI4bSB-Ps-xRI"><strong>Blog</strong></a>
+      <a href="https://github.com/Nyok17/blog_rest_api"><strong>Blog</strong></a>
       <p>Blog REST API backend</p>
     </td>
   </tr>
