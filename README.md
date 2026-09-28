@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**Nyok17/Nyok17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
+
 <p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
