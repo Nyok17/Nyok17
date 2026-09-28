@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyok17&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-<p> Hi there 👋</p>
+<p align="center"> Hi there 👋</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Software+Developer;Backend+%26+REST+APIs;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
