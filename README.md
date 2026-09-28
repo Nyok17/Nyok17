@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
+*** Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
 
 <p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
@@ -16,8 +16,8 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/your-username/project-1">
-        <img src="https://raw.githubusercontent.com/your-username/project-1/main/preview.png" alt="Project 1 Preview" width="100%"/>
+      <a href="https://yoga-project1738.vercel.app/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCccDXt7Z_sxNCECksSVoAgmaBfJKf3jkEzEVccjwNAg&s=10" width="100%"/>
       </a>
       <br />
       <a href="https://github.com/your-username/project-1"><strong>📦 project-name-1</strong></a>
