@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*** Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
+ Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
 
 <p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
