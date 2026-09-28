@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Nyok17/Nyok17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
