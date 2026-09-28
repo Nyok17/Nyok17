@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header Banner](./path-to-your-header-image.png)
+![Header Banner](https://scontent.fnbo19-2.fna.fbcdn.net/v/t39.30808-1/785605742_122109234051441700_1660633961875012116_n.jpg?stp=c0.0.960.960a_dst-jpg_tt6&cstp=mx960x960&ctp=s200x200&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGzm5opLU1KY9PSxVFeqldxNXTuBA4Veu41dO4EDhV67hUwyEf_kflV5lEKJ1ol24YzYNZzU3LrotViCNYpJv37&_nc_ohc=3gsUe7D-2SIQ7kNvwEZLQi_&_nc_oc=Ado_l1mhIFcOL5aTJ4ezY9P89IcaWxtB25TzBenJ0jDv0GTQjJJhu39tb2x2t-zSOGWqMt68W4POknM5JVEDfSb6&_nc_zt=24&_nc_ht=scontent.fnbo19-2.fna&_nc_gid=i1xPpjrsAxGDpyqlFHNutA&_nc_ss=7b2a8&oh=00_AQP9a-SirVG819DZ4i2n5DoSzwUNKRTVvdE9zpfCqKMENQ&oe=6AC0172E)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Software+Developer;Backend+%26+REST+APIs;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
