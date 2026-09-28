@@ -32,5 +32,24 @@
       <p>Take notes with google-like notes keeper</p>
     </td>
   </tr>
+</br>
+    <tr>
+    <td width="50%">
+      <a href="https://yoga-project1738.vercel.app/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCccDXt7Z_sxNCECksSVoAgmaBfJKf3jkEzEVccjwNAg&s=10" width="100%"/>
+      </a>
+      <br />
+      <a href="https://github.com/your-username/project-1"><strong>Yoga website</strong></a>
+      <p>Mystic Yoga website. Take yoga classes with ease with Mystic yoga subscription</p>
+    </td>
+    <td width="50%">
+      <a href="https://notes-app-six-kappa-92.vercel.app/">
+        <img src="https://dribbble.com/search/sticky-notes-app" width="100%"/>
+      </a>
+      <br />
+      <a href="https://github.com/your-username/project-2"><strong>Notes Taking Web App</strong></a>
+      <p>Take notes with google-like notes keeper</p>
+    </td>
+  </tr>
 </table>
 
