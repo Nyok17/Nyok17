@@ -25,7 +25,7 @@
     </td>
     <td width="50%">
       <a href="https://notes-app-six-kappa-92.vercel.app/">
-        <img src="https://wallofwonders.wordpress.com/2017/06/13/my-latest-project-a-note-taking-web-app/" width="100%"/>
+        <img src="https://www.rapidtables.com/lib/ogimages/notepad.jpg" width="100%"/>
       </a>
       <br />
       <a href="https://github.com/your-username/project-2"><strong>Notes Taking Web App</strong></a>
