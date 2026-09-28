@@ -11,3 +11,26 @@
   </a>
 </p>
 
+### My favorite projects 💻
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/your-username/project-1">
+        <img src="https://raw.githubusercontent.com/your-username/project-1/main/preview.png" alt="Project 1 Preview" width="100%"/>
+      </a>
+      <br />
+      <a href="https://github.com/your-username/project-1"><strong>📦 project-name-1</strong></a>
+      <p>Short description of what your app does and the tech stack used.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/your-username/project-2">
+        <img src="https://raw.githubusercontent.com/your-username/project-2/main/preview.png" alt="Project 2 Preview" width="100%"/>
+      </a>
+      <br />
+      <a href="https://github.com/your-username/project-2"><strong>📦 project-name-2</strong></a>
+      <p>Short description of what your app does and the tech stack used.</p>
+    </td>
+  </tr>
+</table>
+
