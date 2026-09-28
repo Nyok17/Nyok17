@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vcenter=true&width=435&lines=Software+Developer;Backend+%26+REST+APIs;Building+Innovative+Solutions" alt="Typing SVG" />
+</p>
+
  Software developer | Backend & APIs | Python • Java • C • React | Learning by building and understanding how things work.
 
  ### Tech Stack 🛠️
