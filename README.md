@@ -25,7 +25,7 @@
     </td>
     <td width="50%">
       <a href="https://notes-app-six-kappa-92.vercel.app/">
-        <img src="https://s3-alpha.figma.com/hub/file/6879854140/984c2af7-73e2-40af-8663-347189e63d7d-cover.png" width="100%"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2aGZaHgGWnlbOWR6m4DfcRDwm_qQO6QRjRZ3b195J_G-aTc5XcOkdU06&s=10" width="100%"/>
       </a>
       <br />
       <a href="https://github.com/your-username/project-2"><strong>📦 project-name-2</strong></a>
