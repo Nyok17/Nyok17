@@ -35,8 +35,8 @@
 </br>
     <tr>
     <td width="50%">
-      <a href="https://yoga-project1738.vercel.app/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCccDXt7Z_sxNCECksSVoAgmaBfJKf3jkEzEVccjwNAg&s=10" width="100%"/>
+      <a href="https://food-recipe17-kb5afwi19-nyoks-projects.vercel.app/">
+        <img src="https://images.immediate.co.uk/production/volatile/sites/30/2026/04/Satay-tofu-bowls-fb93db8.jpg?quality=90&resize=556,505" width="100%"/>
       </a>
       <br />
       <a href="https://github.com/your-username/project-1"><strong>Yoga website</strong></a>
